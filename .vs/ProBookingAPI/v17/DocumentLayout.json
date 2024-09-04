@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C5A1A-B199-444F-8400-C07B0DADE447}|ProBookingAPI.csproj|d:\\dokumenty\\projects\\cs\\probookingapi\\controllers\\probookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09C5A1A-B199-444F-8400-C07B0DADE447}|ProBookingAPI.csproj|solutionrelative:controllers\\probookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C5A1A-B199-444F-8400-C07B0DADE447}|ProBookingAPI.csproj|d:\\dokumenty\\projects\\cs\\probookingapi\\models\\probookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09C5A1A-B199-444F-8400-C07B0DADE447}|ProBookingAPI.csproj|solutionrelative:models\\probookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C5A1A-B199-444F-8400-C07B0DADE447}|ProBookingAPI.csproj|d:\\dokumenty\\projects\\cs\\probookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09C5A1A-B199-444F-8400-C07B0DADE447}|ProBookingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C5A1A-B199-444F-8400-C07B0DADE447}|ProBookingAPI.csproj|d:\\dokumenty\\projects\\cs\\probookingapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09C5A1A-B199-444F-8400-C07B0DADE447}|ProBookingAPI.csproj|solutionrelative:data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProBookingController.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\Controllers\\ProBookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProBookingController.cs",
+              "ToolTip": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\Controllers\\ProBookingController.cs",
+              "RelativeToolTip": "Controllers\\ProBookingController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:41:37.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:30:08.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApiContext.cs",
+              "ToolTip": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\Data\\ApiContext.cs",
+              "RelativeToolTip": "Data\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:32:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProBookingModel.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\Models\\ProBookingModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProBookingModel.cs",
+              "ToolTip": "D:\\Dokumenty\\projects\\CS\\ProBookingAPI\\Models\\ProBookingModel.cs",
+              "RelativeToolTip": "Models\\ProBookingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:30:49.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

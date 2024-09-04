@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "ProBookingAPI.Controllers.ProBookingController",
+    "Method": "CreateEdit",
+    "RelativePath": "api/ProBooking/CreateEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "booking",
+        "Type": "ProBookingAPI.Models.ProBookingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProBookingAPI.Controllers.ProBookingController",
+    "Method": "Delete",
+    "RelativePath": "api/ProBooking/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProBookingAPI.Controllers.ProBookingController",
+    "Method": "Get",
+    "RelativePath": "api/ProBooking/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProBookingAPI.Controllers.ProBookingController",
+    "Method": "GetAll",
+    "RelativePath": "api/ProBooking/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
